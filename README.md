@@ -1,4 +1,4 @@
-# Capstone Project - Data Mining X NLP
+# Cineplex21 Business Intelligence using Data Mining and NLP
 <h3>Final Project Data Mining dan Business Intelligence (Reguler) dan Natural Language Processing (IUP) - Studi Kasus Cineplex21</h3>
 <p>Link Video : https://www.youtube.com/watch?v=-pnSOD5HtE0</p>
 
